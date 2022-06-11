@@ -1,4 +1,7 @@
-## Hello, i'am Yago Marques, an iOS Developer
+## Hello, everybody
+### About me 👨‍💻
+I'm Yago Marques, I'm 19 years old and I live in Brazil. I'm currently learning iOS development (SwiftUI, UIKit) and I'm studying Computer Science at the Federal Institute of Education, Science and Technology of Ceará.
+
 <div align="center">
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yago-marques&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
