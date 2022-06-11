@@ -1,15 +1,18 @@
 ## Hello, i'am Yago Marques, an iOS Developer
 <div align="center">
-  <a href="https://github.com/yago-marques">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yago-marques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-marques&layout=compact&langs_count=7&theme=dracula"/>
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yago-marques&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-marques&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Yago" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
 
   <img align="center" alt="Yago" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-    <img align="center" alt="Yago" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
+  <img align="center" alt="Yago" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
+  <img align="center" alt="Yago" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="right" alt="Yago" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/84297648?v=4?width=676&height=676">
+  <img align="center" alt="Yago" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Yago" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+
 </div>
   
   ##
